@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "/home/inovtech/Documents/automated_makeup_robot_software/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

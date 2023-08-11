@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "396263320873",
+    "project_id": "inovtech-makeup",
+    "storage_bucket": "inovtech-makeup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396263320873:android:c9d191af1af8a9db369b38",
+        "android_client_info": {
+          "package_name": "com.inovtech.automated_makeup_robot_software"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396263320873-199cuud4107teisi71c1pmk82avdd6qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsE1sC5rtOTRon2TmdFVEJQlCq-CXd8j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396263320873-199cuud4107teisi71c1pmk82avdd6qj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396263320873-a3d7k61h3pp7coidvh2c9r34kq0vi1lb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inovtech.makeupApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
